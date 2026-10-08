@@ -119,7 +119,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "볼라스 곁에는 가죽 올가미 줄도 있었다.",
+      "question": "둥근 돌 곁에는 가죽 올가미 줄도 있었다.",
       "answer": true,
       "hint": "윌콕스가 둥근 돌을 집어 든 뒤의 장면이다.",
       "difficulty": "medium"
@@ -195,9 +195,9 @@
       "type": "chosung",
       "usage": "game",
       "level": "L3",
-      "question": "어둠 속 나무 사이로 붉은 빛줄기를 그으며 솟은 것은?",
-      "answer": "신호탄",
-      "chosung": "ㅅㅎㅌ",
+      "question": "어둠 속 나무 사이로 하늘로 솟은 붉은 것은?",
+      "answer": "빛줄기",
+      "chosung": "ㅂㅈㄱ",
       "hint": "고든이 쏜 것이다.",
       "difficulty": "easy"
     },

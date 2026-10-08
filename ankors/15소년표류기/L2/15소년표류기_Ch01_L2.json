@@ -114,18 +114,18 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "모코는 배에서 일을 배우는 견습 선원이었습니다.",
+      "question": "모코는 고든, 브리앙, 도니펀과 함께 키를 붙잡았습니다.",
       "answer": true,
-      "hint": "키를 잡은 네 사람 가운데 한 명입니다.",
+      "hint": "키를 잡은 네 사람을 떠올려 보세요.",
       "difficulty": "easy"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "선실에 물이 찬 까닭은 배 밑에 구멍이 났기 때문이었습니다.",
+      "question": "선실에 물이 찬 까닭은 배 밑이 뚫렸기 때문이었습니다.",
       "answer": false,
-      "hint": "브리앙이 등불을 들고 살펴본 결과를 떠올려 보세요.",
+      "hint": "브리앙이 불을 들고 살펴본 결과를 떠올려 보세요.",
       "difficulty": "medium"
     },
     {

@@ -119,7 +119,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "늪 위로 오리 떼가 구름처럼 날아다녔습니다.",
+      "question": "늪 위로 오리 떼가 아주 많이 날아다녔습니다.",
       "answer": true,
       "hint": "다음 날 아침에 본 모습입니다.",
       "difficulty": "easy"
@@ -148,7 +148,7 @@
       "level": "L2",
       "question": "동굴 안 탁자 위에는 책과 지도가 놓여 있었습니다.",
       "answer": false,
-      "hint": "항아리와 칼, 낚싯바늘이 있었습니다.",
+      "hint": "항아리와 칼 같은 것이 있었습니다.",
       "difficulty": "medium"
     },
     {

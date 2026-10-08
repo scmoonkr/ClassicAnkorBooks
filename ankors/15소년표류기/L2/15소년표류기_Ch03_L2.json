@@ -105,9 +105,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "체어먼 기숙학교 학생 열네 명은 6주 동안 바다 여행을 떠나기로 했습니다.",
+      "question": "학생 열네 명은 6주 동안 바다 여행을 떠나기로 했습니다.",
       "answer": true,
-      "hint": "그래서 새장을 나온 새들처럼 신이 났습니다.",
+      "hint": "그래서 모두 신이 났습니다.",
       "difficulty": "easy"
     },
     {
@@ -143,7 +143,7 @@
       "level": "L2",
       "question": "아이들이 소리친 덕분에 증기선은 슬루기호를 피해 갔습니다.",
       "answer": false,
-      "hint": "아이들의 목소리는 바람과 파도 소리에 묻혔습니다.",
+      "hint": "아이들의 목소리는 증기선에 닿지 않았습니다.",
       "difficulty": "easy"
     },
     {
@@ -189,10 +189,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L2",
-      "question": "돛대에 매달려 있다가 바다에 떨어진 것은?",
-      "answer": "등불",
-      "chosung": "ㄷㅂ",
-      "hint": "어두운 밤에 배가 있다는 것을 알려 줍니다.",
+      "question": "등불을 매달아 두었던, 배의 높은 기둥은?",
+      "answer": "돛대",
+      "chosung": "ㄷㄷ",
+      "hint": "돛을 다는 기둥입니다.",
       "difficulty": "medium"
     },
     {
@@ -229,7 +229,7 @@
       "level": "L2",
       "question": "그 뒤로 2주 동안 거센 ____이 몰아쳤습니다.",
       "answer": "폭풍",
-      "hint": "아주 세게 부는 바람입니다.",
+      "hint": "몹시 사나운 날씨를 뜻합니다.",
       "difficulty": "medium"
     },
     {

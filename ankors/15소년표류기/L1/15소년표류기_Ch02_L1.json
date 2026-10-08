@@ -109,9 +109,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "작은 보트를 찾은 아이는 백스터예요.",
+      "question": "보트를 들고 먼저 가겠다고 한 아이는 도니펀이에요.",
       "answer": true,
-      "hint": "\"여기 보트가 있어!\" 하고 찾았어요.",
+      "hint": "\"우리가 먼저 갈 거야!\" 하고 말했어요.",
       "difficulty": "easy"
     },
     {
@@ -127,7 +127,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "망원경으로 보니 땅에 집이 많았어요.",
+      "question": "멀리 내다보니 땅에 집이 많았어요.",
       "answer": false,
       "hint": "집이 하나도 없었어요.",
       "difficulty": "easy"
@@ -147,7 +147,7 @@
       "level": "L1",
       "question": "브리앙은 헤엄쳐서 땅까지 갔어요.",
       "answer": false,
-      "hint": "물이 빙글빙글 돌아서 어떻게 됐는지 떠올려 봐요.",
+      "hint": "물이 돌아서 어떻게 됐는지 떠올려 봐요.",
       "difficulty": "medium"
     },
     {

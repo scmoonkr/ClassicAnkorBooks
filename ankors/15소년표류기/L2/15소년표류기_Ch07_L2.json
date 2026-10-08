@@ -139,7 +139,7 @@
       "level": "L2",
       "question": "서비스는 낙엽 속에서 흙으로 구운 그릇 조각을 찾았습니다.",
       "answer": true,
-      "hint": "오두막에서 찾은 것입니다.",
+      "hint": "아이들이 잠을 잔 곳에서 찾은 것입니다.",
       "difficulty": "easy"
     },
     {
@@ -214,9 +214,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L2",
-      "question": "그 물은 ____처럼 잔잔한 커다란 호수였습니다.",
-      "answer": "거울",
-      "hint": "얼굴이 비칠 만큼 잔잔한 물을 빗댄 말입니다.",
+      "question": "넓은 들판 너머로 반짝이는 물이 하늘 끝까지 ____ 있었습니다.",
+      "answer": "펼쳐져",
+      "hint": "넓게 퍼져 있는 모양을 나타내는 말입니다.",
       "difficulty": "easy"
     },
     {

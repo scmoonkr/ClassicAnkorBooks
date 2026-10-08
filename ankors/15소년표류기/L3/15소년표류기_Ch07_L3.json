@@ -119,7 +119,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "윌콕스가 망원경을 넘겨받아 보았을 때는 동쪽의 물이 보였다.",
+      "question": "윌콕스가 넘겨받아 보았을 때는 동쪽의 물이 보였다.",
       "answer": false,
       "hint": "\"숲, 숲, 또 숲뿐이야.\"",
       "difficulty": "easy"
@@ -146,9 +146,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "남아메리카 원주민들은 나뭇가지를 엮은 움막을 '아주파'라고 부른다.",
+      "question": "아이들이 잔 곳은 나뭇가지를 엮은 움막이었다.",
       "answer": true,
-      "hint": "아이들이 잔 곳이다.",
+      "hint": "남아메리카 원주민들이 따로 부르는 이름이 있다.",
       "difficulty": "easy"
     },
     {

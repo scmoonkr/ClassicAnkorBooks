@@ -105,7 +105,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "아이들은 여름 방학에 배 여행을 가기로 했어요.",
+      "question": "아이들은 방학에 배 여행을 가기로 했어요.",
       "answer": true,
       "hint": "\"와, 바다 여행이다!\" 하고 신났어요.",
       "difficulty": "easy"
@@ -116,7 +116,7 @@
       "level": "L1",
       "question": "슬루기호는 브리앙네 아빠 배였어요.",
       "answer": false,
-      "hint": "\"가넷네 아빠 배야!\"라고 했어요.",
+      "hint": "다른 아이네 아빠 배였어요.",
       "difficulty": "easy"
     },
     {

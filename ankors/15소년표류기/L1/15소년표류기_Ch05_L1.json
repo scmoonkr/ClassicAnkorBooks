@@ -125,7 +125,7 @@
       "level": "L1",
       "question": "며칠 동안 비가 내렸어요.",
       "answer": true,
-      "hint": "그동안 꼬마들은 큰 옷을 줄여 입었어요.",
+      "hint": "하늘에서 무엇이 내렸는지 떠올려 봐요.",
       "difficulty": "easy"
     },
     {
@@ -192,7 +192,7 @@
       "question": "\"이 옷 너무 커!\" 하고 깔깔 웃은 꼬마는?",
       "answer": "코스타",
       "chosung": "ㅋㅅㅌ",
-      "hint": "큰 옷을 줄여 입은 꼬마예요.",
+      "hint": "옷이 너무 크다고 했어요.",
       "difficulty": "medium"
     },
     {

@@ -114,7 +114,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "아이들은 동굴을 프렌치덴이라고 불렀어요.",
+      "question": "아이들은 동굴에 이름을 붙였어요.",
       "answer": true,
       "hint": "프랑스 아저씨가 살던 곳이에요.",
       "difficulty": "easy"
@@ -123,7 +123,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "폭풍이 분 다음 날 아침, 배는 멀쩡했어요.",
+      "question": "큰 비바람이 분 다음 날 아침, 배는 멀쩡했어요.",
       "answer": false,
       "hint": "브리앙은 한참 동안 바라봤어요.",
       "difficulty": "easy"
@@ -134,7 +134,7 @@
       "level": "L1",
       "question": "뗏목을 만들자고 한 아이는 도니펀이에요.",
       "answer": false,
-      "hint": "절벽 위에 깃발을 단 아이이기도 해요.",
+      "hint": "\"뗏목을 만들자!\" 하고 말한 아이를 떠올려 봐요.",
       "difficulty": "medium"
     },
     {

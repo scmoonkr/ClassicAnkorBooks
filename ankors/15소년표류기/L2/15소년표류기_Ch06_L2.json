@@ -132,7 +132,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "고든은 아틀라스를 보고 이곳이 어디인지 알아냈습니다.",
+      "question": "고든은 지도책을 보고 이곳이 어디인지 알아냈습니다.",
       "answer": false,
       "hint": "고든은 지도를 펼쳤지만 끝내 알 수 없었습니다.",
       "difficulty": "medium"
@@ -152,7 +152,7 @@
       "level": "L2",
       "question": "아이들이 밧줄로 끌자 거북은 곧바로 멈추었습니다.",
       "answer": false,
-      "hint": "거북은 바위처럼 무겁고 힘이 셌습니다.",
+      "hint": "거북은 아주 무겁고 힘이 셌습니다.",
       "difficulty": "easy"
     },
     {

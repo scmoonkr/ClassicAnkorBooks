@@ -146,9 +146,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "동굴 안 침대에는 사람이 자고 있었어요.",
+      "question": "동굴 안에는 사람이 자고 있었어요.",
       "answer": false,
-      "hint": "브리앙이 담요를 들췄어요.",
+      "hint": "브리앙이 살펴보니 텅 비어 있었어요.",
       "difficulty": "easy"
     },
     {
@@ -175,10 +175,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "판이 짖은 덤불 뒤 작은 구멍은 무엇이었나요?",
-      "answer": "동굴",
-      "chosung": "ㄷㄱ",
-      "hint": "\"○○이다!\" 하고 외쳤어요.",
+      "question": "브리앙이 덤불을 걷자 보인 작은 것은?",
+      "answer": "구멍",
+      "chosung": "ㄱㅁ",
+      "hint": "판이 덤불 앞에서 짖었어요.",
       "difficulty": "easy"
     },
     {
@@ -188,7 +188,7 @@
       "question": "동굴 구석에 있던 낡은 가구는?",
       "answer": "침대",
       "chosung": "ㅊㄷ",
-      "hint": "담요를 들춰 보니 비어 있었어요.",
+      "hint": "들춰 보니 텅 비어 있었어요.",
       "difficulty": "easy"
     },
     {
@@ -216,7 +216,7 @@
       "level": "L1",
       "question": "브리앙이 ____를 들췄어요.",
       "answer": "담요",
-      "hint": "침대 위에 덮여 있던 것이에요.",
+      "hint": "잘 때 덮는 것이에요.",
       "difficulty": "medium"
     },
     {

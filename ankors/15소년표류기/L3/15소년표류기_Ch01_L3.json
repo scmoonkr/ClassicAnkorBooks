@@ -179,10 +179,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L3",
-      "question": "모래밭 앞에 이빨처럼 늘어서 있던 검은 바위는?",
-      "answer": "암초",
-      "chosung": "ㅇㅊ",
-      "hint": "배가 여기에 부딪혀 멈췄다.",
+      "question": "6시가 조금 못 되어 배가 쿵 부딪힌 것은?",
+      "answer": "바위",
+      "chosung": "ㅂㅇ",
+      "hint": "배가 여기에 걸려 멈췄다.",
       "difficulty": "easy"
     },
     {
@@ -259,7 +259,7 @@
         "고든",
         "자크"
       ],
-      "hint": "브리앙을 '도련님'이라고 부르는 견습 선원이다.",
+      "hint": "브리앙을 '도련님'이라고 부르는 소년이다.",
       "difficulty": "easy"
     },
     {

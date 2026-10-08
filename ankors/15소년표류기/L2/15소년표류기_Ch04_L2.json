@@ -105,9 +105,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "절벽은 성벽처럼 높고 가팔랐습니다.",
+      "question": "브리앙과 고든은 절벽에서 동굴을 찾지 못했습니다.",
       "answer": true,
-      "hint": "동굴도 올라갈 길도 없었습니다.",
+      "hint": "올라갈 길도 없었습니다.",
       "difficulty": "easy"
     },
     {
@@ -236,15 +236,15 @@
       "type": "who_said",
       "usage": "game",
       "level": "L2",
-      "question": "내일 비둘기 사냥을 가자!",
-      "answer": "도니펀",
+      "question": "우선 쉴 곳을 찾자. 동생들이 먼저야.",
+      "answer": "브리앙",
       "options": [
         "도니펀",
         "브리앙",
         "모코",
         "고든"
       ],
-      "hint": "신이 나서 말했지만, 곧 얼굴을 찌푸렸습니다.",
+      "hint": "동생들을 먼저 챙기는 사람입니다.",
       "difficulty": "easy"
     },
     {

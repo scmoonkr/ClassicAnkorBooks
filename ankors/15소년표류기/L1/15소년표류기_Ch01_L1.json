@@ -105,7 +105,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "슬루기호에는 어른이 한 명도 없었어요.",
+      "question": "배에는 어른이 한 명도 없었어요.",
       "answer": true,
       "hint": "배에는 아이들만 타고 있었어요.",
       "difficulty": "easy"
@@ -125,7 +125,7 @@
       "level": "L1",
       "question": "모코를 구한 사람은 고든이에요.",
       "answer": false,
-      "hint": "바닥을 기어서 간 사람을 떠올려 봐요.",
+      "hint": "배 안 바닥을 지나 모코에게 간 사람을 떠올려 봐요.",
       "difficulty": "easy"
     },
     {
@@ -150,7 +150,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "슬루기호는 모래밭에 닿아서 멈췄어요.",
+      "question": "배는 모래밭에 닿아서 멈췄어요.",
       "answer": false,
       "hint": "쿵! 배가 어디에 걸렸는지 떠올려 봐요.",
       "difficulty": "medium"

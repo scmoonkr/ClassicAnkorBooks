@@ -119,7 +119,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "윌콕스는 처음에 볼라스를 공놀이 도구로 여겼다.",
+      "question": "윌콕스는 처음에 그 사냥 도구를 공놀이 도구로 여겼다.",
       "answer": true,
       "hint": "\"이건 뭐지?\" 하고 물었다.",
       "difficulty": "medium"
@@ -185,10 +185,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L4",
-      "question": "길을 잃은 밤, 신호탄을 쏘아 아이들을 이끈 사람은?",
-      "answer": "고든",
-      "chosung": "ㄱㄷ",
-      "hint": "도니펀이 \"○○이다!\" 하고 외쳤다.",
+      "question": "길을 잃은 밤, 슬루기호에서 쏘아 올려 아이들을 이끈 것은?",
+      "answer": "신호탄",
+      "chosung": "ㅅㅎㅌ",
+      "hint": "윌콕스는 처음에 별똥별인 줄 알았다.",
       "difficulty": "easy"
     },
     {

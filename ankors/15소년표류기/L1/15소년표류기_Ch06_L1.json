@@ -132,9 +132,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "거북 등에 탄 코스타는 \"이랴, 이랴!\" 하고 외쳤어요.",
+      "question": "거북 등에 탄 아이들은 모두 신이 났어요.",
       "answer": false,
-      "hint": "코스타는 무서워했어요. 신이 난 아이는 뒤에 탄 아이예요.",
+      "hint": "한 아이는 \"내려 줘! 무서워!\" 하고 외쳤어요.",
       "difficulty": "medium"
     },
     {
@@ -229,7 +229,7 @@
       "level": "L1",
       "question": "뒤에 탄 ____은 신이 났어요.",
       "answer": "돌",
-      "hint": "코스타 뒤에 탄 아이예요.",
+      "hint": "\"이랴, 이랴!\" 하고 외친 아이예요.",
       "difficulty": "medium"
     },
     {
