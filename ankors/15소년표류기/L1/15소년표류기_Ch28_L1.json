@@ -131,7 +131,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "코프가 칼을 들자 고든이 뛰어들었어요.",
+      "question": "칼을 든 선원 앞에 고든이 뛰어들었어요.",
       "answer": false,
       "hint": "\"안 돼!\" 하고 뛰어든 아이는 누구였나요?",
       "difficulty": "medium"
@@ -140,7 +140,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "판이 선원을 물어서 코스타가 풀려났어요.",
+      "question": "판이 선원을 꽉 물었어요.",
       "answer": true,
       "hint": "판은 아이들과 사는 개예요.",
       "difficulty": "easy"
@@ -149,9 +149,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "대포를 쏜 아이는 자크였어요.",
-      "answer": false,
-      "hint": "자크는 총을 쐈어요.",
+      "question": "포브스는 월스턴의 칼에 다쳤어요.",
+      "answer": true,
+      "hint": "포브스는 월스턴을 붙잡았어요.",
       "difficulty": "medium"
     },
     {

@@ -192,7 +192,7 @@
       "question": "날마다 적은 일지가 책으로 찍힌 소년은?",
       "answer": "백스터",
       "chosung": "ㅂㅅㅌ",
-      "hint": "책은 수천 부가 팔려 나갔다.",
+      "hint": "날마다 기록을 남긴 소년이다.",
       "difficulty": "medium"
     },
     {
@@ -218,9 +218,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L3",
-      "question": "백스터가 날마다 적은 일지는 책으로 찍혀 ____ 부가 팔려 나갔다.",
-      "answer": "수천",
-      "hint": "아주 많은 수를 나타낸다.",
+      "question": "소식은 순식간에 온 ____로 퍼졌고, 사람들이 부두로 몰려들었다.",
+      "answer": "도시",
+      "hint": "많은 사람이 모여 사는 곳이다.",
       "difficulty": "hard"
     },
     {

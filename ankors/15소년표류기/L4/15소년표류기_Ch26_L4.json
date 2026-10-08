@@ -182,7 +182,7 @@
       "question": "브리앙이 동쪽에서 본 하얀 얼룩의 정체는?",
       "answer": "빙하",
       "chosung": "ㅂㅎ",
-      "hint": "불빛은 화산이었다.",
+      "hint": "얼음으로 된 거대한 덩어리다.",
       "difficulty": "medium"
     },
     {
@@ -199,10 +199,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L4",
-      "question": "도니펀이 '우리 학교 이름'이라고 덧붙인 섬 이름은?",
-      "answer": "체어먼섬",
-      "chosung": "ㅊㅇㅁㅅ",
-      "hint": "소년들이 붙인 이름이다.",
+      "question": "브리앙이 동쪽에서 본 불빛의 정체는?",
+      "answer": "화산",
+      "chosung": "ㅎㅅ",
+      "hint": "불을 뿜는 산이다.",
       "difficulty": "easy"
     },
     {

@@ -105,9 +105,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "에반스 아저씨가 지도를 펼쳤어요.",
+      "question": "에반스 아저씨는 섬 바로 옆에 땅이 있다고 했어요.",
       "answer": true,
-      "hint": "섬 이름을 알려 줄 때였어요.",
+      "hint": "아이들은 깜짝 놀랐어요.",
       "difficulty": "easy"
     },
     {
@@ -132,9 +132,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "모코가 작은 보트로 두 사람을 데려왔어요.",
+      "question": "두 사람은 배가 부서졌다며 도와 달라고 했어요.",
       "answer": true,
-      "hint": "강을 건너야 했어요.",
+      "hint": "\"도와주세요.\"",
       "difficulty": "easy"
     },
     {
@@ -209,9 +209,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L1",
-      "question": "모코는 자는 ____했어요.",
-      "answer": "척",
-      "hint": "진짜로 자지는 않았어요.",
+      "question": "하지만 ____는 쫑긋 세웠어요.",
+      "answer": "귀",
+      "hint": "소리를 듣는 곳이에요.",
       "difficulty": "medium"
     },
     {

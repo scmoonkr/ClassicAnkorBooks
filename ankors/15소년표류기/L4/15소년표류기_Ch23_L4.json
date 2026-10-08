@@ -125,14 +125,14 @@
       "level": "L4",
       "question": "케이트가 우유나무를 알아본 나무는 높이 50~60피트였다.",
       "answer": true,
-      "hint": "늪 숲 가장자리의 나무다.",
+      "hint": "꼬마들과 걷다가 멈춰 선 나무다.",
       "difficulty": "hard"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "고든은 우유나무가 남아메리카 숲에 자라는 갈락텐드론이라고 했다.",
+      "question": "고든은 우유나무가 남아메리카 숲에 자라는 나무라고 했다.",
       "answer": false,
       "hint": "어느 대륙의 숲이라고 했는지 떠올려 보자.",
       "difficulty": "hard"
@@ -159,10 +159,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L4",
-      "question": "케이트가 처음 외친 우유나무의 다른 이름은?",
-      "answer": "젖소나무",
-      "chosung": "ㅈㅅㄴㅁ",
-      "hint": "꼬마들이 소가 그 나무를 먹느냐고 물었다.",
+      "question": "케이트가 우유나무를 알아본 곳은 어느 숲의 가장자리였나?",
+      "answer": "늪 숲",
+      "chosung": "ㄴ ㅅ",
+      "hint": "물기가 많은 땅에 있는 숲이다.",
       "difficulty": "medium"
     },
     {

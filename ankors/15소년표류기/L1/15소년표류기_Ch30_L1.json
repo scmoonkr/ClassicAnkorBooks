@@ -105,18 +105,18 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "서비스가 처음 연기를 보았어요.",
+      "question": "\"큰 배 연기다!\" 하고 말한 사람은 에반스 아저씨예요.",
       "answer": true,
-      "hint": "\"저기 연기가 보여요!\"",
+      "hint": "어른이 한 말이에요.",
       "difficulty": "easy"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "돛대 위로 올라간 아이는 도니펀이었어요.",
-      "answer": false,
-      "hint": "\"배다! 진짜 배야!\" 하고 외친 아이예요.",
+      "question": "선장 아저씨는 아이들을 집에 데려다주겠다고 했어요.",
+      "answer": true,
+      "hint": "선장 아저씨가 웃으며 한 말을 떠올려 봐요.",
       "difficulty": "medium"
     },
     {
@@ -132,18 +132,18 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "오클랜드에 돌아온 아이는 열네 명이었어요.",
-      "answer": false,
-      "hint": "한 명도 빠지지 않았어요.",
+      "question": "엄마 아빠들이 아이들을 꼭 안았어요.",
+      "answer": true,
+      "hint": "사람들이 우르르 달려 나왔어요.",
       "difficulty": "medium"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "백스터의 일기는 책이 되었어요.",
-      "answer": true,
-      "hint": "많은 사람이 그 책을 읽었어요.",
+      "question": "케이트 아줌마가 사람들에게 섬 이야기를 했어요.",
+      "answer": false,
+      "hint": "누가 섬 이야기를 했는지 떠올려 봐요.",
       "difficulty": "easy"
     },
     {
@@ -229,7 +229,7 @@
       "level": "L1",
       "question": "많은 사람이 그 ____을 읽었어요.",
       "answer": "책",
-      "hint": "백스터의 일기가 무엇이 되었나요?",
+      "hint": "일기가 무엇이 되었나요?",
       "difficulty": "easy"
     },
     {

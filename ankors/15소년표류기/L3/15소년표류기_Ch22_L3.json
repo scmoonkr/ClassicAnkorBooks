@@ -105,7 +105,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "브리앙과 백스터는 단단한 갈대로 팔각형 뼈대를 짜서 연을 만들었다.",
+      "question": "브리앙과 친구는 호숫가의 단단한 갈대로 팔각형 뼈대를 짜서 연을 만들었다.",
       "answer": true,
       "hint": "호숫가에서 재료를 구했다.",
       "difficulty": "medium"
@@ -132,7 +132,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "월스턴 일당은 케이트가 살아 있다는 것을 알고 있었다.",
+      "question": "반란을 일으킨 선원 일당은 케이트가 살아 있다는 것을 알고 있었다.",
       "answer": false,
       "hint": "케이트가 엿들은 대화를 떠올려 보자.",
       "difficulty": "easy"

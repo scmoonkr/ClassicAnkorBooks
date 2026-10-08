@@ -96,9 +96,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "도니펀은 브리앙이 붙인 실망만이라는 이름이 곧 틀린 이름이 될 거라고 말했다.",
+      "question": "도니펀은 마젤란 해협을 나온 배들이 동쪽 바다로 지나갈 거라고 말했다.",
       "answer": true,
-      "hint": "도니펀은 배들이 이쪽으로 지나갈 거라고 믿었다.",
+      "hint": "도니펀은 자신의 선택이 옳았다고 믿고 싶었다.",
       "difficulty": "easy"
     },
     {
@@ -170,7 +170,7 @@
       "type": "chosung",
       "usage": "game",
       "level": "L3",
-      "question": "갈대숲에서 나타난 붉은 갈색의 큰 짐승은?",
+      "question": "갈대숲에서 나타난 붉은 갈색의 큰 동물은?",
       "answer": "맥",
       "chosung": "ㅁ",
       "hint": "두꺼운 가죽을 가졌다.",

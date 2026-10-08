@@ -122,7 +122,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "돌아온 제비는 지난겨울 편지를 매달아 날려 보낸 그 제비였다.",
+      "question": "돌아온 제비는 예전에 편지를 매달아 날려 보낸 그 제비였다.",
       "answer": true,
       "hint": "윌콕스의 덫에 걸렸다.",
       "difficulty": "medium"
@@ -131,7 +131,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "과나코를 쏜 사람은 사냥에 나선 도니펀이었다.",
+      "question": "죽은 짐승을 쏜 사람은 사냥에 나선 도니펀이었다.",
       "answer": false,
       "hint": "소년들은 한 달 넘게 총을 쏘지 않았다.",
       "difficulty": "easy"

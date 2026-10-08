@@ -114,9 +114,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "케이트는 펜필드 부부를 모시는 하녀였습니다.",
+      "question": "케이트는 죽은 척하다가 몰래 도망쳐 왔습니다.",
       "answer": true,
-      "hint": "부부와 함께 세번호를 탔습니다.",
+      "hint": "케이트가 어떻게 살아 나왔는지 떠올려 보세요.",
       "difficulty": "easy"
     },
     {
@@ -189,10 +189,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L2",
-      "question": "케이트가 펜필드 부부와 함께 타고 가던 배의 이름은?",
-      "answer": "세번호",
-      "chosung": "ㅅㅂㅎ",
-      "hint": "칠레로 가는 길이었습니다.",
+      "question": "케이트가 탄 배가 가던 나라는?",
+      "answer": "칠레",
+      "chosung": "ㅊㄹ",
+      "hint": "두 글자입니다.",
       "difficulty": "easy"
     },
     {

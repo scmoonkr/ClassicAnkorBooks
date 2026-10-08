@@ -104,9 +104,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "코스타는 아파서 몸이 아주 뜨거웠어요.",
+      "question": "브리앙은 동쪽에서 불을 뿜는 산을 봤다고 말했어요.",
       "answer": true,
-      "hint": "코스타가 어떻게 아팠는지 떠올려 봐요.",
+      "hint": "그래서 도니펀은 가까이에 땅이 있다고 했어요.",
       "difficulty": "easy"
     },
     {
@@ -115,16 +115,16 @@
       "level": "L1",
       "question": "케이트는 밤에 푹 잤어요.",
       "answer": false,
-      "hint": "케이트는 코스타를 지켜 주었어요.",
+      "hint": "아픈 꼬마를 지켜 주었어요.",
       "difficulty": "easy"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "제비가 편지를 가지고 돌아왔어요.",
+      "question": "밤에는 문을 지키자고 말한 사람은 브리앙이에요.",
       "answer": false,
-      "hint": "\"하지만 편지는 ○○○요.\"",
+      "hint": "브리앙은 언덕에서 망을 보자고 했어요.",
       "difficulty": "medium"
     },
     {
@@ -140,9 +140,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "케이트는 부서진 파이프를 보고 월스턴의 것이라고 했어요.",
+      "question": "선원들이 쏜 거라고 말한 사람은 도니펀이에요.",
       "answer": true,
-      "hint": "\"이건 월스턴의 파이프야.\"",
+      "hint": "죽은 동물에 총알이 박혀 있었어요.",
       "difficulty": "medium"
     },
     {
@@ -243,7 +243,7 @@
         "도니펀",
         "케이트"
       ],
-      "hint": "파이프를 함께 주운 친구예요.",
+      "hint": "선원들이 보트를 못 고쳤나 보다고 말한 친구예요.",
       "difficulty": "medium"
     },
     {
@@ -258,7 +258,7 @@
         "도니펀",
         "돌"
       ],
-      "hint": "에반스를 알아본 사람이에요.",
+      "hint": "밖의 목소리를 알아본 사람이에요.",
       "difficulty": "medium"
     },
     {

@@ -122,7 +122,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "록은 윌콕스가 파 둔 함정 구덩이 바닥에서 발견되었다.",
+      "question": "록은 짐승을 잡으려고 파 둔 함정 구덩이 바닥에서 발견되었다.",
       "answer": true,
       "hint": "땅속으로 꺼진 듯 사라졌던 까닭이다.",
       "difficulty": "medium"
@@ -168,7 +168,7 @@
       "type": "chosung",
       "usage": "game",
       "level": "L3",
-      "question": "고든이 풀어 주자 과나코와 함께 달아난 짐승은?",
+      "question": "풀어 준 짐승 가운데 과나코와 함께 달아난 짐승은?",
       "answer": "비쿠냐",
       "chosung": "ㅂㅋㄴ",
       "hint": "뒤도 돌아보지 않고 달아났다.",

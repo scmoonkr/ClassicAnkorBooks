@@ -96,9 +96,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "도니펀은 항구 옆 바위를 보고 곰바위 항구라고 이름 지었어요.",
+      "question": "도니펀은 바닷가에서 넓은 동굴을 찾았어요.",
       "answer": true,
-      "hint": "곰처럼 생긴 바위가 있었어요.",
+      "hint": "동굴 안에는 방이 여러 개였어요.",
       "difficulty": "easy"
     },
     {
@@ -200,9 +200,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L1",
-      "question": "항구 옆에 곰처럼 생긴 ____가 있었어요.",
-      "answer": "바위",
-      "hint": "곰바위 항구라는 이름이 여기서 나왔어요.",
+      "question": "넷은 ____으로 뛰어갔어요.",
+      "answer": "숲",
+      "hint": "나무가 많은 곳이에요.",
       "difficulty": "easy"
     },
     {

@@ -106,7 +106,7 @@
       "level": "L2",
       "question": "고든은 선원들이 연장이 없어서 보트를 못 고친 것 같다고 했습니다.",
       "answer": true,
-      "hint": "창고방에서 한 말입니다.",
+      "hint": "큰 아이들이 모였을 때 한 말입니다.",
       "difficulty": "easy"
     },
     {
@@ -124,14 +124,14 @@
       "level": "L2",
       "question": "돌아온 제비의 주머니에는 답장이 들어 있었습니다.",
       "answer": false,
-      "hint": "소년들은 힘이 쭉 빠졌습니다.",
+      "hint": "소년들은 몹시 실망했습니다.",
       "difficulty": "easy"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "죽은 과나코에서 총알을 꺼낸 사람은 도니펀이었습니다.",
+      "question": "죽은 동물에서 총알을 꺼낸 사람은 도니펀이었습니다.",
       "answer": false,
       "hint": "도니펀과 함께 간 친구입니다.",
       "difficulty": "medium"
@@ -243,7 +243,7 @@
         "고든",
         "브리앙"
       ],
-      "hint": "과나코를 찾아낸 소년입니다.",
+      "hint": "새 떼를 보고 강을 건너간 소년입니다.",
       "difficulty": "medium"
     },
     {

@@ -201,7 +201,7 @@
       "question": "모코가 작은 대포를 쏜 곳은?",
       "answer": "창고방",
       "chosung": "ㅊㄱㅂ",
-      "hint": "우레 같은 소리가 터진 곳이다.",
+      "hint": "물건을 넣어 두는 방이다.",
       "difficulty": "hard"
     },
     {
@@ -226,9 +226,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L3",
-      "question": "그때 창고방에서 ____ 같은 소리가 터졌다.",
-      "answer": "우레",
-      "hint": "천둥을 뜻하는 우리말이다.",
+      "question": "강물이 하얗게 ____ 올랐고, 보트는 물살에 휩쓸려 바다 쪽으로 사라졌다.",
+      "answer": "튀어",
+      "hint": "대포알이 떨어지자 물이 어떻게 되었나?",
       "difficulty": "medium"
     },
     {

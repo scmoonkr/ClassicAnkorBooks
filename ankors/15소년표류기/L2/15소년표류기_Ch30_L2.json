@@ -114,7 +114,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "타마르섬 앞에는 배가 많이 있었습니다.",
+      "question": "2월 12일에 지나간 섬 앞에는 배가 많이 있었습니다.",
       "answer": false,
       "hint": "그곳에는 배가 몇 척 있었나요?",
       "difficulty": "easy"
@@ -132,7 +132,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "톰 롱 선장은 아이들을 다른 나라로 데려갔습니다.",
+      "question": "그래프턴호의 선장은 아이들을 다른 나라로 데려갔습니다.",
       "answer": false,
       "hint": "선장이 데려다주겠다고 한 곳을 떠올려 보세요.",
       "difficulty": "medium"
@@ -150,9 +150,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "체어먼호의 선장이 된 사람은 고든이었습니다.",
-      "answer": false,
-      "hint": "시민들이 배를 선물한 사람입니다.",
+      "question": "에반스는 선물 받은 배의 선장이 되었습니다.",
+      "answer": true,
+      "hint": "시민들이 돈을 모아 배를 선물했습니다.",
       "difficulty": "easy"
     },
     {
@@ -209,9 +209,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L2",
-      "question": "멀리 하얀 빙하가 ____처럼 반짝였습니다.",
-      "answer": "거울",
-      "hint": "얼굴을 비추어 보는 물건입니다.",
+      "question": "부모들은 아이들을 꼭 껴안고 ____.",
+      "answer": "울었습니다",
+      "hint": "너무 기뻐서 눈물을 흘렸습니다.",
       "difficulty": "easy"
     },
     {

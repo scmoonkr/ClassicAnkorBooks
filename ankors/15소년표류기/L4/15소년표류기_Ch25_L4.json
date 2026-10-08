@@ -122,7 +122,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "과나코에서 나온 탄알은 사냥총이 아니라 배에서 쓰는 총의 탄알이었다.",
+      "question": "죽은 짐승에서 나온 탄알은 사냥총이 아니라 배에서 쓰는 총의 탄알이었다.",
       "answer": true,
       "hint": "모코가 칼끝으로 파냈다.",
       "difficulty": "hard"

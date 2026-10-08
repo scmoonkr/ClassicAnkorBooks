@@ -172,14 +172,14 @@
       "question": "스마이스 해협을 내려가면 나오는 항구는?",
       "answer": "타마르 항",
       "chosung": "ㅌㅁㄹ ㅎ",
-      "hint": "그다음에는 푼타아레나스가 있습니다.",
+      "hint": "이름 끝에 '항'이 붙습니다.",
       "difficulty": "medium"
     },
     {
       "type": "chosung",
       "usage": "game",
       "level": "L2",
-      "question": "타마르 항보다 더 가면 나오는 큰 마을은?",
+      "question": "에반스가 '큰 마을'이라고 한 곳은?",
       "answer": "푼타아레나스",
       "chosung": "ㅍㅌㅇㄹㄴㅅ",
       "hint": "이름이 여섯 글자입니다.",

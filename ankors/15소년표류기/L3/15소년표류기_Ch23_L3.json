@@ -116,16 +116,16 @@
       "level": "L3",
       "question": "사냥을 멈춘 뒤 소년들은 먹을 것이 모자라 굶주렸다.",
       "answer": false,
-      "hint": "덫과 닭장이 있었다.",
+      "hint": "덫으로 잡은 것과 기르던 가축이 있었다.",
       "difficulty": "medium"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "케이트는 늪 숲 가장자리에서 우유나무를 알아보았다.",
+      "question": "케이트는 10월 25일 꼬마들과 숲을 걷다가 우유나무를 알아보았다.",
       "answer": true,
-      "hint": "10월 25일의 일이다.",
+      "hint": "꼬마들과 함께 걷던 날이다.",
       "difficulty": "easy"
     },
     {
@@ -159,10 +159,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L3",
-      "question": "케이트가 알아본, 껍질에서 하얀 즙이 나오는 나무는?",
-      "answer": "우유나무",
-      "chosung": "ㅇㅇㄴㅁ",
-      "hint": "\"어머, ○○○○네!\"",
+      "question": "고든이 칼집을 내자 하얀 즙이 흘러나온 나무의 부분은?",
+      "answer": "껍질",
+      "chosung": "ㄲㅈ",
+      "hint": "나무의 겉을 싸고 있는 부분이다.",
       "difficulty": "easy"
     },
     {

@@ -161,7 +161,7 @@
       "question": "에반스와 아이들이 살피러 간 숲은?",
       "answer": "함정 숲",
       "chosung": "ㅎㅈ ㅅ",
-      "hint": "아직 따뜻한 재가 남아 있던 곳입니다.",
+      "hint": "오후 두 시에 일행이 다다른 숲입니다.",
       "difficulty": "easy"
     },
     {
@@ -198,19 +198,19 @@
       "type": "chosung",
       "usage": "game",
       "level": "L2",
-      "question": "천둥 같은 대포를 쏜 아이는?",
+      "question": "대포를 쏜 아이는?",
       "answer": "모코",
       "chosung": "ㅁㅋ",
-      "hint": "동굴 집에 남아 있던 아이입니다.",
+      "hint": "두 글자입니다.",
       "difficulty": "easy"
     },
     {
       "type": "fill_blank",
       "usage": "game",
       "level": "L2",
-      "question": "오후 ____ 시, 일행은 함정 숲 가장자리에 다다랐습니다.",
-      "answer": "두",
-      "hint": "우리말 숫자가 들어갑니다.",
+      "question": "그곳에는 아직 따뜻한 ____가 남아 있었습니다.",
+      "answer": "재",
+      "hint": "불을 피운 뒤에 남는 것입니다.",
       "difficulty": "hard"
     },
     {
