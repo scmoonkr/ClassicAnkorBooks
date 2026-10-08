@@ -104,9 +104,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "고든은 패깅을 이 섬에서 허락하지 않았다.",
+      "question": "고든은 어린 학생이 큰 학생의 시중을 드는 전통을 이 섬에서 허락하지 않았다.",
       "answer": true,
-      "hint": "어린 학생이 큰 학생의 시중을 드는 전통이다.",
+      "hint": "고든이 정한 섬의 규칙이다.",
       "difficulty": "easy"
     },
     {

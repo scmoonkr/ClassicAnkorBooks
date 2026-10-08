@@ -122,9 +122,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "아이들은 프랑수아 보두앵 아저씨 무덤 앞에서 기도했어요.",
+      "question": "아이들은 동굴에 살던 아저씨 무덤 앞에서 기도했어요.",
       "answer": true,
-      "hint": "이 동굴에 살던 아저씨 무덤이에요.",
+      "hint": "아이들은 아저씨 이름도 알게 되었어요.",
       "difficulty": "easy"
     },
     {
@@ -149,9 +149,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "윌콕스는 총을 쏘아서 난두를 잡았어요.",
+      "question": "윌콕스는 총을 쏘아서 새를 잡았어요.",
       "answer": false,
-      "hint": "윌콕스는 옷을 벗어 새 머리에 씌웠어요.",
+      "hint": "윌콕스는 옷을 벗어 새에게 씌웠어요.",
       "difficulty": "medium"
     },
     {
@@ -226,9 +226,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L1",
-      "question": "아이들은 손을 모으고 ____했어요.",
-      "answer": "기도",
-      "hint": "무덤 앞에서 한 일이에요.",
+      "question": "아이들은 ____을 모으고 기도했어요.",
+      "answer": "손",
+      "hint": "기도할 때 모으는 몸의 한 부분이에요.",
       "difficulty": "easy"
     },
     {

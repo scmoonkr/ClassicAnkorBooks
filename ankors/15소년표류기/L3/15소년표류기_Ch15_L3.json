@@ -118,7 +118,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "서비스는 고든이 말리기도 전에 트룰카를 깨물었다.",
+      "question": "서비스는 고든이 말리기도 전에 붉은 열매를 깨물었다.",
       "answer": true,
       "hint": "지독하게 신 맛이었다.",
       "difficulty": "easy"
@@ -145,9 +145,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "백스터는 볼라스를 던져 과나코를 잡았다.",
+      "question": "백스터는 덤불에서 튀어나온 큰 짐승을 볼라스로 잡았다.",
       "answer": false,
-      "hint": "과나코를 잡을 때 쓴 도구는 달랐다.",
+      "hint": "그 짐승을 잡을 때 쓴 도구는 달랐다.",
       "difficulty": "medium"
     },
     {
@@ -167,7 +167,7 @@
       "question": "소년들이 꼬투리를 딴 나무 열매는?",
       "answer": "알가로보",
       "chosung": "ㅇㄱㄹㅂ",
-      "hint": "트룰카 다음에 딴 것이다.",
+      "hint": "차나무 잎과 함께 딴 것이다.",
       "difficulty": "hard"
     },
     {

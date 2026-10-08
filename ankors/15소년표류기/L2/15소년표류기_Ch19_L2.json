@@ -114,7 +114,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "갈대 공은 바람에 찢어진 깃발 대신 쓸 신호였습니다.",
+      "question": "백스터가 엮은 커다란 공은 바람에 찢어진 깃발 대신 쓸 신호였습니다.",
       "answer": true,
       "hint": "언덕 꼭대기 깃대에 달았습니다.",
       "difficulty": "medium"
@@ -134,7 +134,7 @@
       "level": "L2",
       "question": "브리앙은 나팔 소리가 나면 돌아오라고 했습니다.",
       "answer": true,
-      "hint": "스케이트를 타기 전에 한 말입니다.",
+      "hint": "얼어붙은 호수에서 한 말입니다.",
       "difficulty": "medium"
     },
     {
@@ -152,7 +152,7 @@
       "level": "L2",
       "question": "저녁 5시쯤 도니펀과 크로스는 자크와 함께 돌아왔습니다.",
       "answer": false,
-      "hint": "브리앙의 얼굴이 하얗게 질렸습니다.",
+      "hint": "돌아온 아이는 둘뿐이었습니다.",
       "difficulty": "hard"
     },
     {

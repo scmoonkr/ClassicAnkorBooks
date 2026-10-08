@@ -140,7 +140,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "소년들은 총을 쏘아 투쿠투코를 잡았다.",
+      "question": "소년들은 총을 쏘아 굴 속의 짐승들을 잡았다.",
       "answer": false,
       "hint": "윌콕스가 화약을 아끼자고 했다.",
       "difficulty": "easy"
@@ -151,7 +151,7 @@
       "level": "L3",
       "question": "서비스는 오후에 숲에서 앵무새를 보고 기뻐했다.",
       "answer": false,
-      "hint": "하늘에 맴돈 것은 콘도르였다.",
+      "hint": "하늘에는 다른 큰 새만 맴돌았다.",
       "difficulty": "medium"
     },
     {
@@ -258,7 +258,7 @@
         "고든",
         "크로스"
       ],
-      "hint": "서비스의 투쿠투코 구이를 칭찬한 소년이다.",
+      "hint": "서비스의 고기 구이를 칭찬한 소년이다.",
       "difficulty": "hard"
     },
     {

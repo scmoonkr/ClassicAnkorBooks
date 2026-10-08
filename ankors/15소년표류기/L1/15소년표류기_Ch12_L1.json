@@ -149,9 +149,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "고든이 섬의 대표가 되었어요.",
+      "question": "아이들은 \"고든 만세!\" 하고 외쳤어요.",
       "answer": true,
-      "hint": "\"고든 만세!\"",
+      "hint": "누가 뽑혔는지 떠올려 봐요.",
       "difficulty": "easy"
     },
     {
@@ -178,10 +178,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "아이들이 붙인 섬 이름은?",
-      "answer": "체어먼섬",
-      "chosung": "ㅊㅇㅁㅅ",
-      "hint": "아이들 학교 이름이에요.",
+      "question": "아이들이 침대를 옮긴 방 말고, 또 이름을 붙인 방은?",
+      "answer": "창고방",
+      "chosung": "ㅊㄱㅂ",
+      "hint": "\"저기는 ○○○이야.\" 하고 불렀어요.",
       "difficulty": "easy"
     },
     {

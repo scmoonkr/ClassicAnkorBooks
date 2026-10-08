@@ -114,7 +114,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "고든은 숲에서 단풍나무를 찾았어요.",
+      "question": "고든은 숲에서 설탕이 나오는 나무를 찾았어요.",
       "answer": true,
       "hint": "이 나무에서 설탕이 나와요.",
       "difficulty": "easy"
@@ -182,7 +182,7 @@
       "question": "밤마다 덫을 망가뜨린 동물은?",
       "answer": "여우",
       "chosung": "ㅇㅇ",
-      "hint": "소년들이 덤불에 숨어 이 동물을 사냥했어요.",
+      "hint": "도니펀이 \"○○를 잡자!\"라고 했어요.",
       "difficulty": "easy"
     },
     {

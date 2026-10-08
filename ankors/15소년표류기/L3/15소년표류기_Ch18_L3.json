@@ -137,7 +137,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "쿼이츠 마지막 판에서 두 편은 5대 5로 맞섰다.",
+      "question": "고리 던지기 마지막 판에서 두 편은 5대 5로 맞섰다.",
       "answer": true,
       "hint": "남은 고리는 둘뿐이었다.",
       "difficulty": "hard"

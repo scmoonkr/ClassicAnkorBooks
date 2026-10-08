@@ -158,10 +158,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "아이들이 뒤집어서 썰매로 쓴 물건은?",
-      "answer": "식탁",
-      "chosung": "ㅅㅌ",
-      "hint": "밥을 먹을 때 쓰는 큰 상이에요.",
+      "question": "돌이 벌을 받을 때 맞은 것은?",
+      "answer": "회초리",
+      "chosung": "ㅎㅊㄹ",
+      "hint": "가는 나뭇가지로 만든 매예요.",
       "difficulty": "easy"
     },
     {
@@ -171,17 +171,17 @@
       "question": "바닷가에 줄을 서 있던 새는?",
       "answer": "펭귄",
       "chosung": "ㅍㄱ",
-      "hint": "서비스는 병정 같다고 했어요.",
+      "hint": "추운 곳에 사는, 날지 못하는 새예요.",
       "difficulty": "easy"
     },
     {
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "날마다 달력에 표시한 아이는?",
-      "answer": "백스터",
-      "chosung": "ㅂㅅㅌ",
-      "hint": "새 깃발도 단 아이예요.",
+      "question": "백스터가 날마다 표시한 것은?",
+      "answer": "달력",
+      "chosung": "ㄷㄹ",
+      "hint": "날짜가 적혀 있어요.",
       "difficulty": "medium"
     },
     {
@@ -219,7 +219,7 @@
       "level": "L1",
       "question": "꼭 ____ 같아!",
       "answer": "병정",
-      "hint": "서비스가 펭귄을 보고 한 말이에요.",
+      "hint": "서비스가 바닷가의 새들을 보고 한 말이에요.",
       "difficulty": "medium"
     },
     {

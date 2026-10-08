@@ -127,7 +127,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "비쿠냐 새끼는 세 마리였어요.",
+      "question": "염소처럼 생긴 동물의 새끼는 세 마리였어요.",
       "answer": false,
       "hint": "엄마 곁에 있던 새끼 수를 세어 봐요.",
       "difficulty": "medium"
@@ -138,16 +138,16 @@
       "level": "L1",
       "question": "밤에 맹수가 오자 백스터는 불붙은 나무를 던졌어요.",
       "answer": true,
-      "hint": "도니펀은 총을 쏘았어요.",
+      "hint": "다른 아이는 총을 쏘았어요.",
       "difficulty": "easy"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "도니펀이 총을 쏘아 과나코를 잡았어요.",
+      "question": "백스터가 총을 쏘아 큰 동물을 잡았어요.",
       "answer": false,
-      "hint": "도니펀은 총으로 못 맞혔어요.",
+      "hint": "백스터는 줄을 던졌어요.",
       "difficulty": "medium"
     },
     {
@@ -177,7 +177,7 @@
       "question": "밤에 맹수가 왔을 때 총을 쏜 아이는?",
       "answer": "도니펀",
       "chosung": "ㄷㄴㅍ",
-      "hint": "과나코는 못 맞힌 아이예요.",
+      "hint": "집에 가는 길에 큰 동물을 총으로 못 맞힌 아이예요.",
       "difficulty": "easy"
     },
     {

@@ -133,7 +133,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "실망만의 바닷가에는 바위와 동굴이 많았습니다.",
+      "question": "강어귀 바닷가에는 바위와 동굴이 많았습니다.",
       "answer": true,
       "hint": "사람이 살기에 딱 좋아 보였습니다.",
       "difficulty": "medium"
@@ -142,7 +142,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "북동쪽의 하얀 점은 구름처럼 이리저리 움직였습니다.",
+      "question": "바위 위에서 본 하얀 점은 구름처럼 이리저리 움직였습니다.",
       "answer": false,
       "hint": "구름 같았지만 어떠했는지 떠올려 보세요.",
       "difficulty": "hard"

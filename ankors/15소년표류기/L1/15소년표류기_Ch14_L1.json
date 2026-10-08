@@ -104,9 +104,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "백스터는 바퀴 두 개로 수레를 만들었어요.",
+      "question": "백스터는 배에서 바퀴 두 개를 찾았어요.",
       "answer": true,
-      "hint": "배에서 바퀴를 찾았어요.",
+      "hint": "이걸로 짐을 나를 것을 만들었어요.",
       "difficulty": "easy"
     },
     {
@@ -133,7 +133,7 @@
       "level": "L1",
       "question": "11월 5일, 형들 열 명이 길을 떠났어요.",
       "answer": false,
-      "hint": "고무보트로 강을 건넌 횟수와 같아요.",
+      "hint": "강을 한 명씩 건넌 횟수와 같아요.",
       "difficulty": "medium"
     },
     {
@@ -149,7 +149,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "모래 사막에는 나무가 많았어요.",
+      "question": "호수 끝에는 나무가 많았어요.",
       "answer": false,
       "hint": "\"불을 못 피우겠네.\"",
       "difficulty": "easy"
@@ -198,10 +198,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "호수 끝, 모래만 가득한 곳의 이름은?",
-      "answer": "모래 사막",
-      "chosung": "ㅁㄹ ㅅㅁ",
-      "hint": "고든이 붙인 이름이에요.",
+      "question": "백스터가 바퀴 위에 올린 것은?",
+      "answer": "판자",
+      "chosung": "ㅍㅈ",
+      "hint": "나무로 된 넓고 납작한 조각이에요.",
       "difficulty": "medium"
     },
     {

@@ -113,7 +113,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "달력과 일지는 윌콕스가 맡았습니다.",
+      "question": "달력과 일지는 브리앙이 맡았습니다.",
       "answer": false,
       "hint": "\"달력과 일지는 내가 맡을게.\"라고 한 아이를 떠올려 보세요.",
       "difficulty": "medium"
@@ -122,9 +122,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "7월 9일 온도계는 영하 17도를 가리켰습니다.",
+      "question": "7월 9일에는 땔감이 거의 다 떨어졌습니다.",
       "answer": true,
-      "hint": "땔감이 거의 다 떨어진 날입니다.",
+      "hint": "브리앙이 걱정스럽게 한 말을 떠올려 보세요.",
       "difficulty": "medium"
     },
     {
@@ -178,7 +178,7 @@
       "type": "chosung",
       "usage": "game",
       "level": "L2",
-      "question": "슬루기만 바닷가 바위에 수천 마리가 서 있던 새는?",
+      "question": "8월 19일 바닷가 바위에 수천 마리가 서 있던 새는?",
       "answer": "펭귄",
       "chosung": "ㅍㄱ",
       "hint": "서비스는 줄 선 병정들 같다고 했습니다.",
@@ -258,7 +258,7 @@
         "브리앙",
         "도니펀"
       ],
-      "hint": "펭귄을 보고 웃은 아이입니다.",
+      "hint": "바닷가의 새들을 보고 웃은 아이입니다.",
       "difficulty": "easy"
     },
     {

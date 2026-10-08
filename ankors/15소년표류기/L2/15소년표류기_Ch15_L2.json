@@ -109,7 +109,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "트룰카는 그냥 먹는 열매였습니다.",
+      "question": "고든이 발견한 빨간 열매는 그냥 먹는 열매였습니다.",
       "answer": false,
       "hint": "음료를 담그는 열매였습니다.",
       "difficulty": "medium"
@@ -167,7 +167,7 @@
       "question": "돌이 달린 던지는 줄의 이름은?",
       "answer": "볼라스",
       "chosung": "ㅂㄹㅅ",
-      "hint": "백스터가 머리 위로 빙빙 돌렸습니다.",
+      "hint": "백스터가 힘껏 던졌습니다.",
       "difficulty": "easy"
     },
     {

@@ -115,23 +115,23 @@
       "level": "L2",
       "question": "동굴 바위는 단단한 화강암이라 파기 힘들었습니다.",
       "answer": false,
-      "hint": "곡괭이가 잘 들어갔습니다.",
+      "hint": "바위가 무른 석회암이었습니다.",
       "difficulty": "medium"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "벽을 마침내 뚫은 것은 브리앙의 곡괭이였습니다.",
+      "question": "이튿날 오후, 마침내 벽을 뚫은 아이는 브리앙이었습니다.",
       "answer": true,
-      "hint": "이튿날 오후의 일입니다.",
+      "hint": "판이 갇혀 있던 벽입니다.",
       "difficulty": "medium"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "판은 자칼을 쫓아 들어갔다가 입구가 무너져 갇혔습니다.",
+      "question": "판은 짐승을 쫓아 들어갔다가 입구가 무너져 갇혔습니다.",
       "answer": true,
       "hint": "벽 너머 동굴에서 수수께끼가 풀립니다.",
       "difficulty": "medium"
@@ -250,15 +250,15 @@
       "type": "who_said",
       "usage": "game",
       "level": "L2",
-      "question": "이것 봐, 죽은 자칼이야!",
-      "answer": "백스터",
+      "question": "벽 속에서 이상한 소리가 나!",
+      "answer": "브리앙",
       "options": [
-        "백스터",
         "브리앙",
+        "백스터",
         "도니펀",
         "고든"
       ],
-      "hint": "벽 너머 동굴에서 외친 아이입니다.",
+      "hint": "굴을 파다가 손을 멈춘 아이입니다.",
       "difficulty": "easy"
     },
     {

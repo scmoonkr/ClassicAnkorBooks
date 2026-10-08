@@ -108,7 +108,7 @@
       "level": "L1",
       "question": "브리앙은 모코와 자크를 데리고 갔어요.",
       "answer": true,
-      "hint": "브리앙이 고든에게 누구랑 갈지 말했어요.",
+      "hint": "브리앙이 \"모코랑 동생 자크랑 갈게.\"라고 했어요.",
       "difficulty": "easy"
     },
     {
@@ -210,9 +210,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L1",
-      "question": "그런데 ____이 뚝 멈췄어요.",
-      "answer": "바람",
-      "hint": "돛을 밀어 주는 것이에요.",
+      "question": "브리앙이 고개를 ____했어요.",
+      "answer": "갸웃",
+      "hint": "궁금할 때 고개를 기울이는 모양이에요.",
       "difficulty": "easy"
     },
     {

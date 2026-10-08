@@ -113,7 +113,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "서비스가 붙인 이름 브라우제빈트는 '돌풍'이라는 뜻이다.",
+      "question": "서비스가 난두에게 붙인 이름은 '돌풍'이라는 뜻이다.",
       "answer": true,
       "hint": "『스위스 로빈슨』의 잭을 따라 붙였다.",
       "difficulty": "medium"
@@ -140,7 +140,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "스톱강은 폭이 40피트쯤 되었다.",
+      "question": "고든이 멈추자며 이름 붙인 강은 폭이 40피트쯤 되었다.",
       "answer": true,
       "hint": "저녁 다섯 시에 앞을 가로막은 강이다.",
       "difficulty": "hard"
@@ -208,9 +208,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L4",
-      "question": "그 첫날 밤, 모래 사막의 ____을 깨뜨린 것은 아무것도 없었다.",
+      "question": "____을 깨뜨린 것은 아무것도 없었다.",
       "answer": "침묵",
-      "hint": "아무 소리도 없는 상태다.",
+      "hint": "그 첫날 밤, 아무 소리도 없는 상태다.",
       "difficulty": "medium"
     },
     {

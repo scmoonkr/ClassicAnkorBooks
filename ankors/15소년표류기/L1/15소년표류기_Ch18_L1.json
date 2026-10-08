@@ -128,9 +128,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "도니펀과 친구들은 홍학을 많이 잡았어요.",
+      "question": "도니펀과 친구들은 늪에서 새를 많이 잡았어요.",
       "answer": false,
-      "hint": "홍학들은 날아가 버렸어요.",
+      "hint": "새들은 날아가 버렸어요.",
       "difficulty": "easy"
     },
     {
