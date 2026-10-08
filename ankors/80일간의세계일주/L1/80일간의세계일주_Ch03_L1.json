@@ -107,7 +107,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "친구들은 은행에 도둑이 들었다는 이야기를 했어요.",
+      "question": "친구들은 도둑이 들었다는 이야기를 했어요.",
       "answer": true,
       "hint": "돈을 아주 많이 훔쳐 갔대요.",
       "difficulty": "easy"
@@ -116,7 +116,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "은행 도둑은 낡고 찢어진 옷을 입었대요.",
+      "question": "그 도둑은 낡고 찢어진 옷을 입었대요.",
       "answer": false,
       "hint": "도둑이 어떤 옷을 입었는지 떠올려 봐요.",
       "difficulty": "easy"
@@ -127,7 +127,7 @@
       "level": "L1",
       "question": "포그는 80일이면 세상을 한 바퀴 돌 수 있다고 했어요.",
       "answer": true,
-      "hint": "친구들이 그 말을 듣고 깔깔 웃었어요.",
+      "hint": "친구들은 그 말을 믿지 않았어요.",
       "difficulty": "easy"
     },
     {
@@ -136,7 +136,7 @@
       "level": "L1",
       "question": "포그는 2천 파운드를 걸었어요.",
       "answer": false,
-      "hint": "친구들이 깜짝 놀랄 만큼 큰돈이었어요.",
+      "hint": "포그가 건 돈을 다시 읽어 봐요.",
       "difficulty": "medium"
     },
     {
@@ -192,10 +192,10 @@
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "포그가 건 돈은 2만 무엇이었나요?",
-      "answer": "파운드",
-      "chosung": "ㅍㅇㄷ",
-      "hint": "영국의 돈 단위예요.",
+      "question": "포그가 저녁에 친구들과 한 놀이는?",
+      "answer": "카드놀이",
+      "chosung": "ㅋㄷㄴㅇ",
+      "hint": "카드를 가지고 하는 놀이예요.",
       "difficulty": "medium"
     },
     {

@@ -130,7 +130,7 @@
       "level": "L1",
       "question": "기찻길이 끝나자 포그는 크게 화를 냈어요.",
       "answer": false,
-      "hint": "포그만 차분했어요.",
+      "hint": "포그만 놀라지 않았어요.",
       "difficulty": "easy"
     },
     {
@@ -223,9 +223,9 @@
       "type": "fill_blank",
       "usage": "game",
       "level": "L1",
-      "question": "키우니가 ____으로 쿵쿵 걸어갔어요.",
-      "answer": "숲",
-      "hint": "나무가 많은 곳이에요.",
+      "question": "포그는 기차를 타고 ____를 달렸어요.",
+      "answer": "인도",
+      "hint": "포그가 기차로 지나간 나라예요.",
       "difficulty": "easy"
     },
     {

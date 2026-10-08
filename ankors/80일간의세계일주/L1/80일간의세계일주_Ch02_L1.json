@@ -89,8 +89,8 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "파스파르투는 새 주인이 꼭 인형 같다고 했어요.",
-      "answer": true,
+      "question": "파스파르투는 새 주인이 잘 웃는 분이라고 했어요.",
+      "answer": false,
       "hint": "새 주인은 웃지도 않고 말도 거의 안 했어요.",
       "difficulty": "easy"
     },
@@ -116,7 +116,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "벽에 붙은 종이에는 맛있는 음식 이름이 적혀 있었어요.",
+      "question": "벽에는 맛있는 음식 이름이 적혀 있었어요.",
       "answer": false,
       "hint": "몇 시에 무엇을 할지 적혀 있었어요.",
       "difficulty": "easy"
@@ -134,9 +134,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "파스파르투는 종이를 보고 이 집을 떠나기로 했어요.",
+      "question": "파스파르투는 할 일을 다 읽고 이 집을 떠나기로 했어요.",
       "answer": false,
-      "hint": "파스파르투가 손뼉을 쳤어요.",
+      "hint": "파스파르투는 기뻐서 활짝 웃었어요.",
       "difficulty": "medium"
     },
     {
@@ -163,7 +163,7 @@
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "종이에 적힌 일, 9시 37분에 드릴 것은?",
+      "question": "9시 37분에 드릴 것은?",
       "answer": "면도 물",
       "chosung": "ㅁㄷ ㅁ",
       "hint": "수염을 깎을 때 쓰는 물이에요.",
@@ -243,7 +243,7 @@
         "쫓겨난 하인",
         "런던 사람들"
       ],
-      "hint": "손뼉을 친 사람이 한 말이에요.",
+      "hint": "기뻐서 두 손바닥을 마주친 사람이에요.",
       "difficulty": "medium"
     },
     {

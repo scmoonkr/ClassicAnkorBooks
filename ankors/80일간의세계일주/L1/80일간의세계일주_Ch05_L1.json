@@ -109,7 +109,7 @@
       "level": "L1",
       "question": "사람들은 대부분 포그가 해낼 거라고 믿었어요.",
       "answer": false,
-      "hint": "사람들이 고개를 어떻게 했는지 떠올려 봐요.",
+      "hint": "사람들이 어떻게 생각했는지 떠올려 봐요.",
       "difficulty": "easy"
     },
     {
@@ -125,7 +125,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "앨버말 할아버지는 다리가 아파서 걷지 못했어요.",
+      "question": "포그 편인 할아버지는 다리가 아파서 걷지 못했어요.",
       "answer": true,
       "hint": "그래도 포그 편이었어요.",
       "difficulty": "easy"
@@ -134,7 +134,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "앨버말 할아버지는 포그가 진다에 돈을 걸었어요.",
+      "question": "다리가 아픈 할아버지는 포그가 진다에 돈을 걸었어요.",
       "answer": false,
       "hint": "할아버지가 \"나는 ○○를 믿어!\" 하고 말했어요.",
       "difficulty": "medium"
@@ -143,7 +143,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "픽스 형사는 포그가 착한 신사라는 소식을 보냈어요.",
+      "question": "형사는 포그가 착한 신사라는 소식을 보냈어요.",
       "answer": false,
       "hint": "사람들이 소식을 듣고 깜짝 놀랐어요.",
       "difficulty": "medium"
@@ -195,7 +195,7 @@
       "question": "사람들이 클럽에 걸린 포그의 무엇을 다시 보았나요?",
       "answer": "사진",
       "chosung": "ㅅㅈ",
-      "hint": "얼굴을 찍은 것이에요.",
+      "hint": "모습을 그대로 찍은 것이에요.",
       "difficulty": "medium"
     },
     {

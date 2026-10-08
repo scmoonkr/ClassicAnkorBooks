@@ -92,7 +92,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "픽스는 영사에게 도둑이 몽골리아호에 탔다고 말했습니다.",
+      "question": "픽스는 영사에게 도둑이 방금 들어온 배에 탔다고 말했습니다.",
       "answer": true,
       "hint": "픽스는 영사를 보자마자 이 말을 했습니다.",
       "difficulty": "easy"
@@ -189,7 +189,7 @@
       "question": "포그가 날짜와 시각을 빼곡히 적어 둔 것은 무엇인가요?",
       "answer": "수첩",
       "chosung": "ㅅㅊ",
-      "hint": "포그가 선실에 앉아 펼친 것입니다.",
+      "hint": "포그가 배 안의 방에 앉아 펼친 것입니다.",
       "difficulty": "easy"
     },
     {

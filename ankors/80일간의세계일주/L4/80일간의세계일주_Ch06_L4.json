@@ -130,7 +130,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "수에즈에서 아덴까지는 1,310마일이었다.",
+      "question": "수에즈에서 다음 기항지까지는 1,310마일이었다.",
       "answer": true,
       "hint": "배가 석탄을 싣는 까닭을 말할 때 나온다.",
       "difficulty": "hard"
@@ -171,7 +171,7 @@
       "question": "픽스는 정직한 얼굴의 가면을 벗기는 일을 무엇이라 불렀나?",
       "answer": "예술",
       "chosung": "ㅇㅅ",
-      "hint": "그의 자만심이 드러나는 말이다.",
+      "hint": "픽스가 자기 일을 얼마나 높이 여기는지 드러나는 말이다.",
       "difficulty": "medium"
     },
     {

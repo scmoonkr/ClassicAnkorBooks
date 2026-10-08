@@ -94,7 +94,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "픽스는 수에즈 부두에서 배를 기다렸어요.",
+      "question": "픽스는 부두에서 배를 기다렸어요.",
       "answer": true,
       "hint": "부두에서 서성거렸어요.",
       "difficulty": "easy"
@@ -191,7 +191,7 @@
       "question": "파스파르투가 어디 있냐고 물어본 곳은?",
       "answer": "영사관",
       "chosung": "ㅇㅅㄱ",
-      "hint": "여권에 꼭 필요한 일을 해 주는 곳이에요.",
+      "hint": "다른 나라에 있는 영국 사무실이에요.",
       "difficulty": "medium"
     },
     {

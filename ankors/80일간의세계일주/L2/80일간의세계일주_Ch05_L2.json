@@ -107,7 +107,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "왕립 지리학회는 포그의 여행이 충분히 가능하다고 했습니다.",
+      "question": "10월 7일에 발표된 긴 글은 포그의 여행이 충분히 가능하다고 했습니다.",
       "answer": false,
       "hint": "글을 읽은 사람들이 고개를 끄덕이며 한 말을 떠올려 보세요.",
       "difficulty": "easy"
@@ -125,9 +125,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "앨버말 경은 포그에게 5천 파운드를 걸었습니다.",
+      "question": "한 늙은 귀족은 포그에게 5천 파운드를 걸었습니다.",
       "answer": true,
-      "hint": "의자에서 일어나지 못하는 늙은 귀족입니다.",
+      "hint": "의자에서 일어나지 못하는 사람입니다.",
       "difficulty": "easy"
     },
     {

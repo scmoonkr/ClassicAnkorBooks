@@ -119,7 +119,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "영사는 포그의 여권에 도장을 찍어 주지 않았어요.",
+      "question": "영사는 포그에게 도장을 찍어 주지 않았어요.",
       "answer": false,
       "hint": "영사가 도장을 꾹 눌렀어요.",
       "difficulty": "easy"
@@ -207,7 +207,7 @@
       "level": "L1",
       "question": "영사는 ____을 꾹 찍어 줬어요.",
       "answer": "도장",
-      "hint": "여권에 찍는 거예요.",
+      "hint": "영사가 확인했다는 표시로 찍는 거예요.",
       "difficulty": "easy"
     },
     {

@@ -144,17 +144,17 @@
       "level": "L1",
       "question": "픽스도 배에 올라탔어요.",
       "answer": true,
-      "hint": "배가 넓은 바다로 떠나기 전이에요.",
+      "hint": "배가 떠나기 바로 전이에요.",
       "difficulty": "easy"
     },
     {
       "type": "chosung",
       "usage": "game",
       "level": "L1",
-      "question": "파스파르투가 놀란 이곳은 어느 땅이에요?",
-      "answer": "아프리카",
-      "chosung": "ㅇㅍㄹㅋ",
-      "hint": "픽스가 \"○○○○예요.\"라고 알려 줬어요.",
+      "question": "픽스가 파스파르투를 만난 곳은 어디예요?",
+      "answer": "부두",
+      "chosung": "ㅂㄷ",
+      "hint": "배가 닿는 곳이에요.",
       "difficulty": "easy"
     },
     {

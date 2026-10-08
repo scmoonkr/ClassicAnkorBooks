@@ -119,7 +119,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "태풍은 북쪽에서 불어왔어요.",
+      "question": "큰 바람은 북쪽에서 불어왔어요.",
       "answer": false,
       "hint": "선장의 대답을 떠올려 봐요.",
       "difficulty": "medium"
@@ -146,7 +146,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "미국에 가는 큰 배는 상하이에 그대로 서 있었어요.",
+      "question": "타야 할 큰 배는 상하이에 그대로 서 있었어요.",
       "answer": false,
       "hint": "선장이 \"아이고, 늦었다!\" 하고 소리쳤어요.",
       "difficulty": "medium"

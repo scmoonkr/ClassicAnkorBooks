@@ -115,7 +115,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "제너럴그랜트호는 커다란 바퀴로 물을 저어 가는 배였습니다.",
+      "question": "태평양을 건너는 배는 커다란 바퀴로 물을 저어 가는 배였습니다.",
       "answer": true,
       "hint": "튼튼한 배였습니다.",
       "difficulty": "medium"
@@ -133,9 +133,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "픽스는 요코하마에서 체포 영장을 받았습니다.",
+      "question": "픽스는 일본에서 드디어 체포 영장을 받았습니다.",
       "answer": true,
-      "hint": "하지만 영장은 영국 땅이 아니면 소용이 없었습니다.",
+      "hint": "그런데도 픽스가 왜 포그를 따라갔는지 생각해 보세요.",
       "difficulty": "medium"
     },
     {
@@ -161,7 +161,7 @@
       "type": "chosung",
       "usage": "game",
       "level": "L2",
-      "question": "샌프란시스코로 가는 배의 이름은?",
+      "question": "태평양을 건너는 배의 이름은?",
       "answer": "제너럴그랜트호",
       "chosung": "ㅈㄴㄹㄱㄹㅌㅎ",
       "hint": "커다란 바퀴로 물을 저어 갑니다.",

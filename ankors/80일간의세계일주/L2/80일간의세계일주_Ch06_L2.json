@@ -94,7 +94,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "몽골리아호는 오늘 11시에 들어오기로 되어 있었습니다.",
+      "question": "큰 배는 오늘 11시에 들어오기로 되어 있었습니다.",
       "answer": true,
       "hint": "11시가 되자 마침내 배가 도착했습니다.",
       "difficulty": "easy"
@@ -121,7 +121,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "영사는 몽골리아호가 아주 느린 배라고 했습니다.",
+      "question": "영사는 그 배가 아주 느린 배라고 했습니다.",
       "answer": false,
       "hint": "영사가 웃으며 한 대답을 떠올려 보세요.",
       "difficulty": "medium"

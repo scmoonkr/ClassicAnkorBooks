@@ -93,7 +93,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "포그는 영국 런던에 살았어요.",
+      "question": "포그는 영국에 살았어요.",
       "answer": true,
       "hint": "이야기가 시작되는 곳을 떠올려 봐요.",
       "difficulty": "easy"
@@ -113,14 +113,14 @@
       "level": "L1",
       "question": "포그는 밤 12시면 꼭 잠자리에 들었어요.",
       "answer": true,
-      "hint": "포그는 날마다 똑같이 살았어요.",
+      "hint": "포그는 하루하루를 늘 똑같이 보냈어요.",
       "difficulty": "easy"
     },
     {
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "하인이 쫓겨난 까닭은 면도할 물이 너무 뜨거워서였어요.",
+      "question": "하인이 쫓겨난 까닭은 수염 깎을 물이 너무 뜨거워서였어요.",
       "answer": false,
       "hint": "물이 어땠는지 다시 떠올려 봐요.",
       "difficulty": "medium"

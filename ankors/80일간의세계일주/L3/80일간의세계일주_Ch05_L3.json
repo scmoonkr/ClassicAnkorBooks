@@ -116,9 +116,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "왕립 지리학회의 글은 10월 7일 회보에 실렸다.",
+      "question": "포그의 여행이 불가능하다고 따진 학회의 글은 10월 7일 회보에 실렸다.",
       "answer": true,
-      "hint": "여행이 왜 불가능한지 조목조목 따진 글이다.",
+      "hint": "글이 실린 날짜를 떠올려 보자.",
       "difficulty": "hard"
     },
     {
@@ -134,7 +134,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "앨버말 경은 젊고 건강한 귀족이었다.",
+      "question": "끝까지 포그 편에 남은 귀족은 젊고 건강했다.",
       "answer": false,
       "hint": "그는 의자에서 일어나지도 못했다.",
       "difficulty": "easy"
@@ -172,7 +172,7 @@
       "type": "chosung",
       "usage": "game",
       "level": "L3",
-      "question": "픽스가 체포 영장을 보내 달라고 한 곳은?",
+      "question": "형사가 체포 영장을 보내 달라고 한 곳은?",
       "answer": "봄베이",
       "chosung": "ㅂㅂㅇ",
       "hint": "인도의 항구 도시다.",

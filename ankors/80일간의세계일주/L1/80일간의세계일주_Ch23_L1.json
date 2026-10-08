@@ -108,7 +108,7 @@
       "level": "L1",
       "question": "곡예단은 영국에 간다고 했어요.",
       "answer": false,
-      "hint": "광대가 들고 온 그림판을 떠올려 봐요.",
+      "hint": "곡예단 사람이 들고 온 그림판을 떠올려 봐요.",
       "difficulty": "easy"
     },
     {
@@ -142,7 +142,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "포그는 단장에게 돈을 주었어요.",
+      "question": "주인님은 단장에게 돈을 주었어요.",
       "answer": true,
       "hint": "단장이 화를 낸 다음의 일이에요.",
       "difficulty": "medium"

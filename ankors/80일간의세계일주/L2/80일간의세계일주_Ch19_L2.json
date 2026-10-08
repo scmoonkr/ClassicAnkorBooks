@@ -106,7 +106,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "픽스가 기다리던 체포 영장은 홍콩에 도착해 있었습니다.",
+      "question": "픽스가 런던에서 기다리던 서류는 홍콩에 도착해 있었습니다.",
       "answer": false,
       "hint": "픽스의 얼굴이 왜 어두웠는지 떠올려 보세요.",
       "difficulty": "easy"
@@ -124,7 +124,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L2",
-      "question": "파스파르투는 처음부터 픽스가 형사라는 것을 알고 있었습니다.",
+      "question": "파스파르투는 처음부터 픽스의 정체를 알고 있었습니다.",
       "answer": false,
       "hint": "파스파르투가 껄껄 웃으며 한 말을 떠올려 보세요.",
       "difficulty": "medium"
@@ -135,7 +135,7 @@
       "level": "L2",
       "question": "픽스는 파스파르투에게 신분증을 보여 주지 않았습니다.",
       "answer": false,
-      "hint": "픽스가 고개를 저은 뒤 주머니에서 꺼낸 것을 생각해 보세요.",
+      "hint": "픽스가 고개를 저은 뒤 꺼내 보인 것을 생각해 보세요.",
       "difficulty": "medium"
     },
     {

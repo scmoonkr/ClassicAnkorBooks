@@ -111,9 +111,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L4",
-      "question": "포그는 휘스트를 돈벌이로 여겨 딴 돈을 지갑에 모았다.",
+      "question": "포그는 즐기던 카드 게임을 돈벌이로 여겨 딴 돈을 지갑에 모았다.",
       "answer": false,
-      "hint": "그에게 휘스트는 하나의 싸움이었다.",
+      "hint": "그에게 카드 게임은 하나의 싸움이었다.",
       "difficulty": "easy"
     },
     {

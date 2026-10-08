@@ -128,7 +128,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "홍콩에서 상하이까지는 팔백 마일이었다.",
+      "question": "홍콩에서 미국 가는 배가 떠나는 항구까지는 팔백 마일이었다.",
       "answer": true,
       "hint": "뱃사람이 덧붙인 말 속에 나온다.",
       "difficulty": "hard"
@@ -137,7 +137,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "미국 가는 배는 요코하마에서 출발해 상하이를 거쳐 간다.",
+      "question": "미국 가는 배는 사실 요코하마에서 출발한다.",
       "answer": false,
       "hint": "픽스가 숨이 멎는 것 같았던 까닭을 떠올려 보자.",
       "difficulty": "hard"
@@ -195,7 +195,7 @@
       "type": "chosung",
       "usage": "game",
       "level": "L3",
-      "question": "탕카데르호의 크기는 몇 톤짜리였나?",
+      "question": "포그가 오른 작은 배는 몇 톤짜리였나?",
       "answer": "이십 톤",
       "chosung": "ㅇㅅ ㅌ",
       "hint": "팔백 마일이 짧지 않은 까닭과 관계있다.",

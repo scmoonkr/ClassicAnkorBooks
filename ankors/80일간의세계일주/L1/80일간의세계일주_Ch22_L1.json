@@ -108,7 +108,7 @@
       "level": "L1",
       "question": "파스파르투는 배 안에서 주인님을 만났어요.",
       "answer": false,
-      "hint": "파스파르투는 털썩 주저앉았어요.",
+      "hint": "배 안에 키 큰 신사는 없었어요.",
       "difficulty": "easy"
     },
     {
@@ -164,7 +164,7 @@
       "question": "배가 닿은 곳의 이름은?",
       "answer": "요코하마",
       "chosung": "ㅇㅋㅎㅁ",
-      "hint": "일본의 항구예요.",
+      "hint": "파스파르투가 배에서 내린 항구예요.",
       "difficulty": "medium"
     },
     {

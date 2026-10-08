@@ -97,9 +97,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "파스파르투는 홍콩 부두에서 픽스를 만났어요.",
+      "question": "파스파르투는 부두에서 픽스를 만났어요.",
       "answer": true,
-      "hint": "파스파르투가 홍콩 거리를 걷다가 생긴 일이에요.",
+      "hint": "파스파르투가 거리를 걷다가 생긴 일이에요.",
       "difficulty": "easy"
     },
     {
@@ -115,9 +115,9 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "픽스는 자기가 경찰이라고 말했어요.",
+      "question": "파스파르투는 픽스가 클럽 아저씨들이 보낸 사람인 줄 알았어요.",
       "answer": true,
-      "hint": "술집에서 픽스가 작게 한 말이에요.",
+      "hint": "픽스가 \"내가 누군지 알아요?\" 하고 물었을 때예요.",
       "difficulty": "easy"
     },
     {
@@ -133,7 +133,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L1",
-      "question": "픽스는 파스파르투와 함께 술집을 나갔어요.",
+      "question": "픽스는 파스파르투와 함께 그곳을 나갔어요.",
       "answer": false,
       "hint": "파스파르투는 탁자에 엎드려 있었어요.",
       "difficulty": "medium"

@@ -89,7 +89,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "파스파르투는 새 주인을 마담 투소의 밀랍 인형에 빗대었다.",
+      "question": "파스파르투는 새 주인을 박물관의 밀랍 인형에 빗대었다.",
       "answer": true,
       "hint": "장 첫 문장의 혼잣말을 떠올려 보자.",
       "difficulty": "easy"
@@ -100,7 +100,7 @@
       "level": "L3",
       "question": "포그는 화를 자주 내고 쉽게 들뜨는 사람이었다.",
       "answer": false,
-      "hint": "그는 말보다 행동으로 사는 사람이었다.",
+      "hint": "포그가 어떻게 사는 사람이었는지 떠올려 보자.",
       "difficulty": "easy"
     },
     {

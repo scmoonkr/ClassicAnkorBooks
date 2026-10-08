@@ -93,7 +93,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "사람들은 포그가 시인 바이런을 닮았다고 했다.",
+      "question": "사람들은 포그가 한 유명한 시인을 닮았다고 했다.",
       "answer": true,
       "hint": "천 년을 살아도 늙지 않을 것처럼 고요하다고 했다.",
       "difficulty": "easy"
@@ -111,7 +111,7 @@
       "type": "ox",
       "usage": "game",
       "level": "L3",
-      "question": "포그는 휘스트에서 딴 돈을 모두 자선에 썼다.",
+      "question": "포그는 카드 게임에서 딴 돈을 모두 자선에 썼다.",
       "answer": true,
       "hint": "포그는 게임에서 자주 이겼다.",
       "difficulty": "medium"
